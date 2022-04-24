@@ -1,0 +1,11 @@
+{
+    "name": "Imaginary US Dimes",
+    "type": "ERC20",
+    "symbol": "i10C",
+    "decimals": 18,
+    "website": "https://etcswap.org",
+    "description": "Imaginary US Dimes on ETC Swap for testing",
+    "explorer": "https://blockscout.com/etc/mainnet/token/0x4d57bd7e1ff5476686b5f997baf5252b256edb0b",
+    "status": "active",
+    "id": "0x4d57bd7e1ff5476686b5f997baf5252b256edb0b"
+}
