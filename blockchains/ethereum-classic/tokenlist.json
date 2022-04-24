@@ -1,6 +1,6 @@
 {
-    "name": "Trust Wallet: Ethereum Classic",
-    "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+    "name": "ETC Swap: Ethereum Classic",
+    "logoURI": "./info/logo.png",
     "timestamp": "2022-04-24T00:00:00",
     "tokens": [
         {
