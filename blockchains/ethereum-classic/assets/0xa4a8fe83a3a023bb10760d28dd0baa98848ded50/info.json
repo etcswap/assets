@@ -1,0 +1,11 @@
+{
+    "name": "Pennies Mainnet",
+    "type": "ERC20",
+    "symbol": "PENNIES",
+    "decimals": 18,
+    "website": "https://etcswap.org",
+    "description": "Pennies on ETC Swap",
+    "explorer": "https://blockscout.com/etc/mainnet/token/0xa4a8fe83a3a023bb10760d28dd0baa98848ded50",
+    "status": "active",
+    "id": "0xa4a8fe83a3a023bb10760d28dd0baa98848ded50"
+}

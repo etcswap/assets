@@ -1,0 +1,45 @@
+{
+    "name": "Trust Wallet: Ethereum Classic",
+    "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+    "timestamp": "2022-04-24T00:00:00",
+    "tokens": [
+        {
+            "chainId": 61,
+            "asset": "",
+            "type": "ERC20",
+            "address": "0x8a9F58dea0cf3D92DD8963f5a0a4C7aA9Fa76642",
+            "name": "Wrapped Ether Classic",
+            "symbol": "WETC",
+            "decimals": 18,
+            "logoURI": "https://en.wikipedia.org/wiki/Ethereum_Classic#/media/File:Ethereum_Classic_ETC_Logo.png",
+            "pairs": []
+        },
+        {
+            "chainId": 61,
+            "asset": "",
+            "type": "ERC20",
+            "address": "0xa4a8fe83a3a023bb10760d28dd0baa98848ded50",
+            "name": "Pennies Mainnet",
+            "symbol": "PENNIES",
+            "decimals": 18,
+            "logoURI": "https://en.wikipedia.org/wiki/Penny_(United_States_coin)#/media/File:US_One_Cent_Obv.png",
+            "pairs": []
+        },
+        {
+            "chainId": 61,
+            "asset": "",
+            "type": "ERC20",
+            "address": "0xfae5252ef90992d1a50ba025416a62312c31f447",
+            "name": "Dimes Mainnet",
+            "symbol": "DIMES",
+            "decimals": 18,
+            "logoURI": "https://en.wikipedia.org/wiki/Dime_(United_States_coin)#/media/File:2017-D_Roosevelt_dime_obverse_transparent.png",
+            "pairs": []
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}

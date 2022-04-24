@@ -1,0 +1,11 @@
+{
+    "name": "Dimes Mainnet",
+    "type": "ERC20",
+    "symbol": "DIMES",
+    "decimals": 18,
+    "website": "https://etcswap.org",
+    "description": "Dimes on ETC Swap",
+    "explorer": "https://blockscout.com/etc/mainnet/token/0xfae5252ef90992d1a50ba025416a62312c31f447",
+    "status": "active",
+    "id": "0xfae5252ef90992d1a50ba025416a62312c31f447"
+}

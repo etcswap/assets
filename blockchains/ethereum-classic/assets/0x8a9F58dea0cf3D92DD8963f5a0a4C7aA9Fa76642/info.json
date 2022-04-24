@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped Ether Classic",
+    "type": "ERC20",
+    "symbol": "WETC",
+    "decimals": 18,
+    "website": "https://etcswap.org",
+    "description": "Wrapped Ether Classic on ETC Swap",
+    "explorer": "https://blockscout.com/etc/mainnet/token/0x8a9F58dea0cf3D92DD8963f5a0a4C7aA9Fa76642",
+    "status": "active",
+    "id": "0x8a9F58dea0cf3D92DD8963f5a0a4C7aA9Fa76642"
+}

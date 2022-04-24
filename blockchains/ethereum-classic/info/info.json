@@ -1,0 +1,29 @@
+{
+    "name": "Ethereum Classic",
+    "website": "https://ethereumclassic.org/",
+    "description": "Ethereum Classic is the original EVM. It is one of the few open source, censorship resistant, and decentralized networks in the blockchain space. Build unstoppable applications. Code is law.",
+    "explorer": "https://blockscout.com/etc/mainnet/",
+    "research": "https://ethereumclassic.org/why-classic",
+    "symbol": "ETC",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/ethereumclassic"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/eth_classic"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/ethereumclassic"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://github.com/ethereumclassic/wiki/wiki/White-Paper"
+        }
+    ]
+}
