@@ -1,0 +1,42 @@
+{
+    "name": "Bridged DAI",
+    "website": "http://multichain.org",
+    "description": "Bridged DAI through the Multichain cross chain bridge.",
+    "explorer": "https://blockscout.com/etc/mainnet/address/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+    "research": "https://coingecko.com/en/coins/dai/",
+    "type": "ERC20",
+    "symbol": "DAI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+    "tags": [
+        "defi",
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MakerDAO"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/MakerDAO/"
+        },
+        {
+            "name": "blog",
+            "url": "https://blog.makerdao.com/"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://makerdao.com/whitepaper/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/multi-collateral-dai/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/dai/"
+        }
+    ]
+}

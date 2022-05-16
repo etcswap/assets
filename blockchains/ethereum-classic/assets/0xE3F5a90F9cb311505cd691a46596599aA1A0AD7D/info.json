@@ -1,0 +1,37 @@
+{
+    "name": "Bridged USD Coin",
+    "website": "https://multichain.org",
+    "description": "Bridged USDC through the Multichain cross chain bridge.",
+    "explorer": "https://blockscout.com/etc/mainnet/address/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+    "research": "https://coingecko.com/en/coins/usd-coin/",
+    "type": "ERC20",
+    "symbol": "USDC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/centrehq"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/centre-blog"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://centre.io/pdfs/centre-whitepaper.pdf"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/usd-coin/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/usd-coin/"
+        }
+    ]
+}

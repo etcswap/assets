@@ -1,0 +1,42 @@
+{
+    "name": "Bridged Ethereum Foundation",
+    "website": "http://multichain.org",
+    "description": "Bridged ETH through the Multichain cross chain bridge.",
+    "explorer": "https://blockscout.com/etc/mainnet/address/0x765277EebeCA2e31912C9946eAe1021199B39C61",
+    "research": "https://www.coingecko.com/en/coins/ethereum",
+    "type": "ERC20",
+    "symbol": "ETH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+    "tags": [
+        "blockchain",
+        "contract"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ethereum"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/ethereum"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/ethereum"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://github.com/ethereum/wiki/wiki/White-Paper"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/ethereum/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/ethereum"
+        }
+    ]
+}

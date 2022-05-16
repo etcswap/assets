@@ -1,0 +1,30 @@
+{
+    "name": "Bridged Wrapped Bitcoin",
+    "website": "https://mutlichain.org",
+    "description": "Bridged WBTC through the Multichain cross chain bridge.",
+    "explorer": "https://blockscout.com/etc/mainnet/address/0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+    "research": "https://coingecko.com/en/coins/wrapped-bitcoin/",
+    "type": "ERC20",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+    "tags": [
+        "defi",
+        "wrapped"
+    ],
+    "links": [
+        {
+            "name": "whitepaper",
+            "url": "https://wbtc.network/assets/wrapped-tokens-whitepaper.pdf"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/wrapped-bitcoin/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/wrapped-bitcoin/"
+        }
+    ]
+}
