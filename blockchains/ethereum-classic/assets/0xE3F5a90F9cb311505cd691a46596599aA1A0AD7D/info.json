@@ -1,11 +1,11 @@
 {
-    "name": "Bridged USD Coin",
+    "name": "anyUSDC",
     "website": "https://multichain.org",
     "description": "Bridged USDC through the Multichain cross chain bridge.",
     "explorer": "https://blockscout.com/etc/mainnet/address/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
     "research": "https://coingecko.com/en/coins/usd-coin/",
     "type": "ERC20",
-    "symbol": "USDC",
+    "symbol": "anyUSDC",
     "decimals": 6,
     "status": "active",
     "id": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",

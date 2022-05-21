@@ -1,11 +1,11 @@
 {
-    "name": "Bridged Ethereum Foundation",
+    "name": "anyETH",
     "website": "http://multichain.org",
     "description": "Bridged ETH through the Multichain cross chain bridge.",
     "explorer": "https://blockscout.com/etc/mainnet/address/0x765277EebeCA2e31912C9946eAe1021199B39C61",
     "research": "https://www.coingecko.com/en/coins/ethereum",
     "type": "ERC20",
-    "symbol": "ETH",
+    "symbol": "anyETH",
     "decimals": 18,
     "status": "active",
     "id": "0x765277EebeCA2e31912C9946eAe1021199B39C61",

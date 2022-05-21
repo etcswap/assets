@@ -1,11 +1,11 @@
 {
-    "name": "Bridged DAI",
+    "name": "anyDAI",
     "website": "http://multichain.org",
     "description": "Bridged DAI through the Multichain cross chain bridge.",
     "explorer": "https://blockscout.com/etc/mainnet/address/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
     "research": "https://coingecko.com/en/coins/dai/",
     "type": "ERC20",
-    "symbol": "DAI",
+    "symbol": "anyDAI",
     "decimals": 18,
     "status": "active",
     "id": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
