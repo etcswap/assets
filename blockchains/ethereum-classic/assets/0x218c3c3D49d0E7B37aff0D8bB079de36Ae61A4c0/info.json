@@ -2,13 +2,13 @@
     "name": "anyETH",
     "website": "http://multichain.org",
     "description": "Bridged ETH through the Multichain cross chain bridge.",
-    "explorer": "https://blockscout.com/etc/mainnet/address/0x765277EebeCA2e31912C9946eAe1021199B39C61",
+    "explorer": "https://blockscout.com/etc/mainnet/address/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
     "research": "https://www.coingecko.com/en/coins/ethereum",
     "type": "ERC20",
     "symbol": "anyETH",
     "decimals": 18,
     "status": "active",
-    "id": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+    "id": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
     "tags": [
         "blockchain",
         "contract"

@@ -2,13 +2,13 @@
     "name": "anyWBTC",
     "website": "https://mutlichain.org",
     "description": "Bridged WBTC through the Multichain cross chain bridge.",
-    "explorer": "https://blockscout.com/etc/mainnet/address/0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+    "explorer": "https://blockscout.com/etc/mainnet/address/0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
     "research": "https://coingecko.com/en/coins/wrapped-bitcoin/",
     "type": "ERC20",
     "symbol": "anyWBTC",
     "decimals": 8,
     "status": "active",
-    "id": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+    "id": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
     "tags": [
         "defi",
         "wrapped"
