@@ -1,7 +1,7 @@
 {
-    "name": "Multichain-peg Wrapped Bitcoin",
-    "symbol": "anyWBTC",
-    "description": "Bridged Wrapped Bitcoin through the Multichain cross-chain router. Pegged asset is designated with the any prefix on the symbol.",
+    "name": "Multichain-peg WBTC",
+    "symbol": "WBTC",
+    "description": "Bridged Wrapped Bitcoin through the Multichain cross-chain router.",
     "id": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
     "type": "ERC20",
     "decimals": 8,

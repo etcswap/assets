@@ -1,7 +1,7 @@
 {
-    "name": "Multichain-peg Ether Foundation",
-    "symbol": "anyETH",
-    "description": "Bridged Ether from the Ethereum Foundation mainnet through the Multichain cross-chain router. Pegged asset is designated with the any prefix on the symbol.",
+    "name": "Multichain-peg ETH",
+    "symbol": "ETH",
+    "description": "Bridged Ether from the Ethereum Foundation mainnet through the Multichain cross-chain router.",
     "id": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
     "type": "ERC20",
     "decimals": 18,

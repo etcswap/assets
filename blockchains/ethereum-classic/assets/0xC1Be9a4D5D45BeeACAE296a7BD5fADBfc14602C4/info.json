@@ -1,7 +1,7 @@
 {
-    "name": "Multichain-peg USD Coin",
-    "symbol": "anyUSDC",
-    "description": "Bridged USD Coin through the Multichain cross-chain router. Pegged asset is designated with the any prefix on the symbol.",
+    "name": "Multichain-peg USDC",
+    "symbol": "USDC",
+    "description": "Bridged USD Coin through the Multichain cross-chain router.",
     "id": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
     "type": "ERC20",
     "decimals": 6,

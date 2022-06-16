@@ -1,7 +1,7 @@
 {
     "name": "Multichain-peg DAI",
-    "symbol": "anyDAI",
-    "description": "Bridged Dai Stablecoin through the Multichain cross-chain router. Pegged asset is designated with the any prefix on the symbol.",
+    "symbol": "DAI",
+    "description": "Bridged Dai Stablecoin through the Multichain cross-chain router.",
     "id": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
     "type": "ERC20",
     "decimals": 18,

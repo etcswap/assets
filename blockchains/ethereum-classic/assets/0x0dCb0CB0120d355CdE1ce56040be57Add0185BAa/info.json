@@ -1,7 +1,7 @@
 {
     "name": "Multichain-peg BNB",
-    "symbol": "anyBNB",
-    "description": "Bridged BNB through the Multichain cross-chain router. Pegged asset is designated with the any prefix on the symbol.",
+    "symbol": "BNB",
+    "description": "Bridged BNB through the Multichain cross-chain router.",
     "id": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
     "type": "ERC20",
     "decimals": 18,
