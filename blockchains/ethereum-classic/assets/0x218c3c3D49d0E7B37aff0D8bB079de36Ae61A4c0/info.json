@@ -1,17 +1,19 @@
 {
-    "name": "anyETH",
-    "website": "http://multichain.org",
-    "description": "Bridged ETH through the Multichain cross chain bridge.",
-    "explorer": "https://blockscout.com/etc/mainnet/address/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
-    "research": "https://www.coingecko.com/en/coins/ethereum",
-    "type": "ERC20",
+    "name": "Multichain-peg Ether Foundation",
     "symbol": "anyETH",
+    "description": "Bridged Ether from the Ethereum Foundation mainnet through the Multichain cross-chain router. Pegged asset is designated with the any prefix on the symbol.",
+    "id": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+    "type": "ERC20",
     "decimals": 18,
     "status": "active",
-    "id": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+    "website": "http://multichain.org",
+    "explorer": "https://blockscout.com/etc/mainnet/address/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+    "research": "https://www.coingecko.com/coins/ethereum",
     "tags": [
         "blockchain",
-        "contract"
+        "bridged asset",
+        "defi",
+        "smart contracts"
     ],
     "links": [
         {
@@ -32,11 +34,11 @@
         },
         {
             "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/ethereum/"
+            "url": "https://coinmarketcap.com/currencies/ethereum"
         },
         {
             "name": "coingecko",
-            "url": "https://www.coingecko.com/en/coins/ethereum"
+            "url": "https://www.coingecko.com/coins/ethereum"
         }
     ]
 }

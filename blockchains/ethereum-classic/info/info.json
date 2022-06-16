@@ -1,13 +1,18 @@
 {
     "name": "Ethereum Classic",
-    "website": "https://ethereumclassic.org/",
-    "description": "Ethereum Classic is the original EVM. It is one of the few open source, censorship resistant, and decentralized networks in the blockchain space. Build unstoppable applications. Code is law.",
-    "explorer": "https://blockscout.com/etc/mainnet/",
-    "research": "https://ethereumclassic.org/why-classic",
     "symbol": "ETC",
+    "description": "Ethereum Classic is the original EVM launched in 2015. It is one of the few open source, censorship resistant, and decentralized networks in the blockchain space. Build unstoppable applications. Code is law.",
     "type": "coin",
     "decimals": 18,
     "status": "active",
+    "website": "https://ethereumclassic.org/",
+    "explorer": "https://blockscout.com/etc/mainnet/",
+    "research": "https://ethereumclassic.org/why-classic",
+    "tags": [
+        "blockchain",
+        "defi",
+        "smart contracts"
+    ],
     "links": [
         {
             "name": "github",
@@ -24,6 +29,14 @@
         {
             "name": "whitepaper",
             "url": "https://github.com/ethereumclassic/wiki/wiki/White-Paper"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/ethereum-classic/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/ethereum-classic"
         }
     ]
 }

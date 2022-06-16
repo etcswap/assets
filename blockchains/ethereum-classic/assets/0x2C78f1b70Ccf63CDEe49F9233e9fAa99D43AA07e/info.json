@@ -1,15 +1,16 @@
 {
-    "name": "anyDAI",
-    "website": "http://multichain.org",
-    "description": "Bridged DAI through the Multichain cross chain bridge.",
-    "explorer": "https://blockscout.com/etc/mainnet/address/0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
-    "research": "https://coingecko.com/en/coins/dai/",
-    "type": "ERC20",
+    "name": "Multichain-peg DAI",
     "symbol": "anyDAI",
+    "description": "Bridged Dai Stablecoin through the Multichain cross-chain router. Pegged asset is designated with the any prefix on the symbol.",
+    "id": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
+    "type": "ERC20",
     "decimals": 18,
     "status": "active",
-    "id": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
+    "website": "http://multichain.org",
+    "explorer": "https://blockscout.com/etc/mainnet/address/0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
+    "research": "https://coingecko.com/coins/dai",
     "tags": [
+        "bridged asset",
         "defi",
         "stablecoin"
     ],
@@ -20,23 +21,23 @@
         },
         {
             "name": "reddit",
-            "url": "https://reddit.com/r/MakerDAO/"
+            "url": "https://reddit.com/r/MakerDAO"
         },
         {
             "name": "blog",
-            "url": "https://blog.makerdao.com/"
+            "url": "https://blog.makerdao.com"
         },
         {
             "name": "whitepaper",
-            "url": "https://makerdao.com/whitepaper/"
+            "url": "https://makerdao.com/whitepaper"
         },
         {
             "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/multi-collateral-dai/"
+            "url": "https://coinmarketcap.com/currencies/multi-collateral-dai"
         },
         {
             "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/dai/"
+            "url": "https://coingecko.com/coins/dai"
         }
     ]
 }

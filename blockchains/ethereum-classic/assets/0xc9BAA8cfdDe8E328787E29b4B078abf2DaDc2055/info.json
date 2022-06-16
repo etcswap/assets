@@ -1,33 +1,35 @@
 {
-    "name": "anyUSDT",
-    "website": "https://multichain.org",
-    "description": "Bridged USDT through the Multichain cross chain bridge.",
-    "explorer": "https://blockscout.com/etc/mainnet/address/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
-    "research": "https://coingecko.com/en/coins/tether",
-    "type": "ERC20",
+    "name": "Multichain-peg Tether USD",
     "symbol": "anyUSDT",
+    "description": "Bridged Tether USD through the Multichain cross-chain router. Pegged asset is designated with the any prefix on the symbol.",
+    "id": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+    "type": "ERC20",
     "decimals": 6,
     "status": "active",
-    "id": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+    "website": "https://multichain.org",
+    "explorer": "https://blockscout.com/etc/mainnet/address/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+    "research": "https://coingecko.com/coins/tether",
     "tags": [
+        "bridged asset",
+        "defi",
         "stablecoin"
     ],
     "links": [
         {
             "name": "facebook",
-            "url": "https://facebook.com/tether.to/"
+            "url": "https://facebook.com/tether.to"
         },
         {
             "name": "twitter",
-            "url": "https://twitter.com/Tether_to/"
+            "url": "https://twitter.com/Tether_to"
         },
         {
             "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/ru/currencies/tether/"
+            "url": "https://coinmarketcap.com/currencies/tether"
         },
         {
             "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/tether"
+            "url": "https://coingecko.com/coins/tether"
         }
     ]
 }

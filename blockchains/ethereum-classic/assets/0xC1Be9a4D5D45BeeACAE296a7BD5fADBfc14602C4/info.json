@@ -1,15 +1,17 @@
 {
-    "name": "anyUSDC",
-    "website": "https://multichain.org",
-    "description": "Bridged USDC through the Multichain cross chain bridge.",
-    "explorer": "https://blockscout.com/etc/mainnet/address/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
-    "research": "https://coingecko.com/en/coins/usd-coin/",
-    "type": "ERC20",
+    "name": "Multichain-peg USD Coin",
     "symbol": "anyUSDC",
+    "description": "Bridged USD Coin through the Multichain cross-chain router. Pegged asset is designated with the any prefix on the symbol.",
+    "id": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
+    "type": "ERC20",
     "decimals": 6,
     "status": "active",
-    "id": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
+    "website": "https://multichain.org",
+    "explorer": "https://blockscout.com/etc/mainnet/address/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
+    "research": "https://coingecko.com/coins/usd-coin",
     "tags": [
+        "bridged asset",
+        "defi",
         "stablecoin"
     ],
     "links": [
@@ -27,11 +29,11 @@
         },
         {
             "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/usd-coin/"
+            "url": "https://coinmarketcap.com/currencies/usd-coin"
         },
         {
             "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/usd-coin/"
+            "url": "https://coingecko.com/coins/usd-coin"
         }
     ]
 }

@@ -1,11 +1,44 @@
 {
-    "name": "Wrapped Ether",
-    "type": "ERC20",
+    "name": "Canonical Wrapped Ether Classic",
     "symbol": "WETC",
-    "decimals": 18,
-    "website": "https://wrappedether.org",
-    "description": "Wrapped Ether on Ethereum Classic",
-    "explorer": "https://blockscout.com/etc/mainnet/token/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
-    "status": "active",
+    "description": "Canonical Wrapped Ether on Ethereum Classic mainnet.",
     "id": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a"
+    "type": "ERC20",
+    "decimals": 18,
+    "status": "active",
+    "website": "https://wrappedether.org",
+    "explorer": "https://blockscout.com/etc/mainnet/token/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
+    "research": "https://ethereumclassic.org/why-classic",
+    "tags": [
+        "blockchain",
+        "defi",
+        "smart contracts",
+        "wrapped asset"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/wrappedether/canonical-wetc"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/eth_classic"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/ethereumclassic"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://github.com/ethereumclassic/wiki/wiki/White-Paper"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/ethereum-classic"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/ethereum-classic"
+        }
+    ]
 }
