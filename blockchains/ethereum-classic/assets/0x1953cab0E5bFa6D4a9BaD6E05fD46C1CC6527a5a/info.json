@@ -1,7 +1,7 @@
 {
-    "name": "Wrapped Ether Classic",
+    "name": "Wrapped Ether",
     "symbol": "WETC",
-    "description": "Wrapped Ether on Ethereum Classic mainnet.",
+    "description": "Canonical Wrapped Ether on Ethereum Classic mainnet.",
     "id": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a"
     "type": "ERC20",
     "decimals": 18,
