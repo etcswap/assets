@@ -1,0 +1,25 @@
+{
+    "name": "Shiba Classic",
+    "symbol": "SHIBC",
+    "description": "Shiba Classic the first meme token on Ethereum Classic.",
+    "id": "0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1"
+    "type": "ERC20",
+    "decimals": 18,
+    "status": "active",
+    "website": "https://twitter.com/Shibctokenetc",
+    "explorer": "https://blockscout.com/etc/mainnet/token/0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1",
+    "research": "https://t.me/ShibCtokenERC",
+    "tags": [
+        "farm"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Shibctokenetc"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ShibCtokenERC"
+        }
+    ]
+}
