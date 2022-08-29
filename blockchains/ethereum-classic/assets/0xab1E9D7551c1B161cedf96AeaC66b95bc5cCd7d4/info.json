@@ -1,0 +1,35 @@
+{
+    "name": "Wrapped Nova USD",
+    "symbol": "nUSD",
+    "description": "Nova Network's native stablecoin, soft-pegged to the US Dollar at a 1:1 ratio.",
+    "id": "0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4",
+    "type": "ERC20",
+    "decimals": 6,
+    "status": "active",
+    "website": "https://novanetwork.io",
+    "explorer": "https://blockscout.com/etc/mainnet/address/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4",
+    "research": "https://docs.novanetwork.io/nova-usd/introduction",
+    "tags": [
+        "nova",
+        "usd",
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/NovaFinOfficial"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/novanetwork"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/nova-network-inc"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@NovaNetwork"
+        }
+    ]
+}
