@@ -1,0 +1,25 @@
+{
+    "name": "Apecoin Classic ETC",
+    "symbol": "ACE",
+    "description": "A memecoin on Ethereum Classic.",
+    "id": "0xdA616532A458bC5B965B89D7d4cb50C7B9E30347",
+    "type": "ERC20",
+    "decimals": 18,
+    "status": "active",
+    "website": "https://www.acegenesisnft.com/",
+    "explorer": "https://blockscout.com/etc/mainnet/address/0xdA616532A458bC5B965B89D7d4cb50C7B9E30347",
+    "research": "https://www.acegenesisnft.com/",
+    "tags": [
+        "memecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Apecoin_classic"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/apecoinclassic"
+        }
+    ]
+}
