@@ -1,12 +1,12 @@
 {
     "name": "Shiba Classic",
     "symbol": "SHIBC",
-    "description": "Shiba Classic a meme token on Ethereum Classic.",
+    "description": "Shiba Classic is an OG meme cryptocurrency built on Ethereum Classic.",
     "id": "0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1"
     "type": "ERC20",
     "decimals": 18,
     "status": "active",
-    "website": "https://twitter.com/Shibctokenetc",
+    "website": "https://www.shibaclassic.sc/",
     "explorer": "https://blockscout.com/etc/mainnet/token/0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1",
     "research": "https://t.me/ShibCtokenERC",
     "tags": [
@@ -20,6 +20,14 @@
         {
             "name": "telegram",
             "url": "https://t.me/ShibCtokenERC"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/Rz7bN3ZaeM"
+        },
+        {
+            "name": "linktree",
+            "url": "https://linktr.ee/shibctoken"
         }
     ]
 }
