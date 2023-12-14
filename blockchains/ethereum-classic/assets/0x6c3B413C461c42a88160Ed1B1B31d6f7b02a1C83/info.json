@@ -1,0 +1,30 @@
+{
+    "name": "",
+    "symbol": "ETCPOW",
+    "description": "The main utility of ETCPOW is to reward miners for mining ETC in the ETCMC pool and to reward ETCMC node operators relative to uptime of the node.",
+    "id": "0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83",
+    "type": "ERC20",
+    "decimals": 18,
+    "status": "active",
+    "website": "https://www.etcmc.org",
+    "explorer": "https://etc.blockscout.com/address/0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83",
+    "research": "https://www.etcmc.org/etcpow",
+    "tags": [
+        "dao",
+        "mining"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ETCMC777"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/etcpow"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/etcpow"
+        }
+    ]
+}

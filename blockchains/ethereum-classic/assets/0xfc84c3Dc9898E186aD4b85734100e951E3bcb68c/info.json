@@ -1,0 +1,29 @@
+{
+    "name": "ClassicDAO",
+    "symbol": "CLD",
+    "description": "Take part in deciding the future of the Ethereum Classic DeFi Ecosystem, one proposal, one vote and one ClassicDAO at a time.",
+    "id": "0xfc84c3Dc9898E186aD4b85734100e951E3bcb68c",
+    "type": "ERC20",
+    "decimals": 18,
+    "status": "active",
+    "website": "https://classicdao.one",
+    "explorer": "https://etc.blockscout.com/address/0xfc84c3Dc9898E186aD4b85734100e951E3bcb68c",
+    "research": "https://classicdao.one",
+    "tags": [
+        "dao"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ClassicDao"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/cld"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/cld"
+        }
+    ]
+}

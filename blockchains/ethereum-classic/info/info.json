@@ -6,7 +6,7 @@
     "decimals": 18,
     "status": "active",
     "website": "https://ethereumclassic.org/",
-    "explorer": "https://blockscout.com/etc/mainnet/",
+    "explorer": "https://etc.blockscout.com",
     "research": "https://ethereumclassic.org/why-classic",
     "tags": [
         "blockchain",
