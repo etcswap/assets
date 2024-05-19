@@ -4,5 +4,5 @@
     "name": "Brale's Stable Coin",
     "symbol": "SBC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/classic/chains/61/0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798/logo.png"
 }

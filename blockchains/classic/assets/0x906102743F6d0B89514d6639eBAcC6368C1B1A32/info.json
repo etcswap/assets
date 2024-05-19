@@ -2,7 +2,7 @@
     "name": "DogeClassic",
     "symbol": "cDOGE",
     "description": "DogeClassic a meme token on Ethereum Classic.",
-    "id": "0x906102743F6d0B89514d6639eBAcC6368C1B1A32"
+    "id": "0x906102743F6d0B89514d6639eBAcC6368C1B1A32",
     "type": "ERC20",
     "decimals": 9,
     "status": "active",

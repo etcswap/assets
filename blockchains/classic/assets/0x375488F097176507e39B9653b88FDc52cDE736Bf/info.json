@@ -2,7 +2,7 @@
     "name": "Multichain-peg JellyBeanCash",
     "symbol": "JellyBean",
     "description": "JellyBeanCash is a growing farming ecosystem BNB with a CrossChain token on ETC",
-    "id": "0x375488F097176507e39B9653b88FDc52cDE736Bf"
+    "id": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
     "type": "ERC20",
     "decimals": 18,
     "status": "active",

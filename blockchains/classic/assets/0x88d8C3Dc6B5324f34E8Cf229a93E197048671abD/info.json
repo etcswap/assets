@@ -2,7 +2,7 @@
     "name": "HebeToken",
     "symbol": "HEBE",
     "description": "HEBE is a blockchain ecosystem featuring Wallet, Defi and NFT technology.",
-    "id": "0x88d8C3Dc6B5324f34E8Cf229a93E197048671abD"
+    "id": "0x88d8C3Dc6B5324f34E8Cf229a93E197048671abD",
     "type": "ERC20",
     "decimals": 18,
     "status": "active",

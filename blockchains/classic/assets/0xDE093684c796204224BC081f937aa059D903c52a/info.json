@@ -4,5 +4,5 @@
     "name": "Classic USD",
     "symbol": "USC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0xDE093684c796204224BC081f937aa059D903c52a/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/classic/chains/61/0xDE093684c796204224BC081f937aa059D903c52a/logo.png"
 }

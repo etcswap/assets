@@ -2,7 +2,7 @@
     "name": "Shiba Classic",
     "symbol": "SHIBC",
     "description": "Shiba Classic is an OG meme cryptocurrency built on Ethereum Classic.",
-    "id": "0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1"
+    "id": "0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1",
     "type": "ERC20",
     "decimals": 18,
     "status": "active",
