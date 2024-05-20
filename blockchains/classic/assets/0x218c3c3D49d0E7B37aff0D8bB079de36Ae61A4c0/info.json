@@ -1,18 +1,17 @@
 {
-    "name": "Multichain-peg ETH",
-    "symbol": "ETH",
+    "name": "ETH bridged by Multichain",
+    "symbol": "anyETH",
     "description": "Bridged Ether from the Ethereum Foundation mainnet through the Multichain cross-chain router.",
     "id": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
     "type": "ERC20",
     "decimals": 18,
     "status": "active",
     "website": "http://multichain.org",
-    "explorer": "https://blockscout.com/etc/mainnet/address/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+    "explorer": "https://etc.blockscout.com/address/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
     "research": "https://www.coingecko.com/coins/ethereum",
     "tags": [
         "blockchain",
         "bridged asset",
-        "defi",
         "smart contracts"
     ],
     "links": [
