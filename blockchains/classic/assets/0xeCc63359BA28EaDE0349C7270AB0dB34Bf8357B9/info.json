@@ -1,8 +1,21 @@
 {
-    "chainId": 61,
-    "address": "0xeCc63359BA28EaDE0349C7270AB0dB34Bf8357B9",
-    "name": "Gas",
+    "name": "Gas by Brale",
     "symbol": "GAS",
+    "description": "A test ERC20 asset for the Brale ecosystem.",
+    "id": "0xeCc63359BA28EaDE0349C7270AB0dB34Bf8357B9",
+    "type": "ERC20",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/etcswap/assets/main/blockchains/classic/assets/0xeCc63359BA28EaDE0349C7270AB0dB34Bf8357B9/logo.png"
+    "status": "active",
+    "website": "https://brale.xyz",
+    "explorer": "https://etc.blockscout.com/address/0xeCc63359BA28EaDE0349C7270AB0dB34Bf8357B9",
+    "research": "https://brale.xyz",
+    "tags": [
+        "test asset"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/brale_xyz"
+        }
+    ]
 }
