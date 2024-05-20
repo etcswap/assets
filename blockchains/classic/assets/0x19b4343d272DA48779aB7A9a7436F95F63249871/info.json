@@ -1,8 +1,32 @@
 {
-    "chainId": 61,
-    "address": "0x19b4343d272DA48779aB7A9a7436F95F63249871",
     "name": "INK by TMWSTW",
     "symbol": "INK",
+    "description": "A resource from the metaverse game The Man Who Sold The World.",
+    "id": "0x19b4343d272DA48779aB7A9a7436F95F63249871",
+    "type": "ERC20",
     "decimals": 0,
-    "logoURI": "https://raw.githubusercontent.com/etcswap/assets/main/blockchains/classic/assets/0x19b4343d272DA48779aB7A9a7436F95F63249871/logo.png"
+    "status": "active",
+    "website": "https://tmwstw.io/",
+    "explorer": "https://etc.blockscout.com/address/0x19b4343d272DA48779aB7A9a7436F95F63249871",
+    "research": "https://wiki.tmwstw.io/",
+    "tags": [
+        "games",
+        "game resources",
+        "metaverse",
+        "web3 gaming"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/TMWSTW_NFT"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/d56axYmRTa"
+        },
+        {
+            "name": "youtube",
+            "url": "https://www.youtube.com/@TMWSTW_metaverse"
+        }
+    ]
 }
