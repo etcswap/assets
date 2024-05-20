@@ -1,13 +1,13 @@
 {
-    "name": "Multichain-peg USDT",
-    "symbol": "USDT",
+    "name": "USDT bridged by Multichain",
+    "symbol": "anyUSDT",
     "description": "Bridged Tether USD through the Multichain cross-chain router.",
     "id": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
     "type": "ERC20",
     "decimals": 6,
     "status": "active",
     "website": "https://multichain.org",
-    "explorer": "https://blockscout.com/etc/mainnet/address/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+    "explorer": "https://etc.blockscout.com/address/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
     "research": "https://coingecko.com/coins/tether",
     "tags": [
         "bridged asset",
