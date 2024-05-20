@@ -8,7 +8,7 @@
     "status": "active",
     "website": "http://multichain.org",
     "explorer": "https://etc.blockscout.com/address/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
-    "research": "https://www.coingecko.com/coins/ethereum",
+    "research": "https://coingecko.com/coins/ethereum",
     "tags": [
         "blockchain",
         "bridged asset",
@@ -37,7 +37,7 @@
         },
         {
             "name": "coingecko",
-            "url": "https://www.coingecko.com/coins/ethereum"
+            "url": "https://coingecko.com/coins/ethereum"
         }
     ]
 }
