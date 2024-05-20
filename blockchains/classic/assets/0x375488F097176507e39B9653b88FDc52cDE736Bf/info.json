@@ -1,13 +1,13 @@
 {
-    "name": "Multichain-peg JellyBeanCash",
-    "symbol": "JellyBean",
-    "description": "JellyBeanCash is a growing farming ecosystem BNB with a CrossChain token on ETC",
+    "name": "JellyBeanCash bridged by Multichain",
+    "symbol": "anyJellyBean",
+    "description": "JellyBeanCash is a growing farming ecosystem on BSC with a CrossChain token on ETC",
     "id": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
     "type": "ERC20",
     "decimals": 18,
     "status": "active",
     "website": "https://jellybeancash.com/",
-    "explorer": "https://blockscout.com/etc/mainnet/token/0x375488F097176507e39B9653b88FDc52cDE736Bf",
+    "explorer": "https://etc.blockscout.com/address/0x375488F097176507e39B9653b88FDc52cDE736Bf",
     "research": "https://jellybeancash.com/",
     "tags": [
         "farm"
