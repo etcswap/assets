@@ -1,0 +1,30 @@
+{
+    "name": "Classic USD",
+    "symbol": "USC",
+    "description": "Classic USD is the first native fiat-backed stablecoin on the Ethereum Classic network.",
+    "id": "0xDE093684c796204224BC081f937aa059D903c52a",
+    "type": "ERC20",
+    "decimals": 6,
+    "status": "active",
+    "website": "https://classicusd.com",
+    "explorer": "https://etc.blockscout.com/address/0xDE093684c796204224BC081f937aa059D903c52a",
+    "research": "https://brale.xyz/stablecoins/USC",
+    "tags": [
+        "defi",
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Classic_USD"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/classic-usd"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/classic-usd"
+        }
+    ]
+}

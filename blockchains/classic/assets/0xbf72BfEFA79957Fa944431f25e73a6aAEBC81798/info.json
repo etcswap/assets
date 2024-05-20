@@ -1,0 +1,32 @@
+{
+    "name": "TMWSTW Profits",
+    "symbol": "TMWSTW",
+    "description": "A resource from the metaverse game The Man Who Sold The World.",
+    "id": "0xbf72BfEFA79957Fa944431f25e73a6aAEBC81798",
+    "type": "ERC20",
+    "decimals": 0,
+    "status": "active",
+    "website": "https://tmwstw.io/",
+    "explorer": "https://etc.blockscout.com/address/0xbf72BfEFA79957Fa944431f25e73a6aAEBC81798",
+    "research": "https://wiki.tmwstw.io/",
+    "tags": [
+        "games",
+        "game resources",
+        "metaverse",
+        "web3 gaming"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/TMWSTW_NFT"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/d56axYmRTa"
+        },
+        {
+            "name": "youtube",
+            "url": "https://youtube.com/@TMWSTW_metaverse"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "USDT bridged by Multichain",
+    "symbol": "anyUSDT",
+    "description": "Bridged Tether USD through the Multichain cross-chain router.",
+    "id": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+    "type": "ERC20",
+    "decimals": 6,
+    "status": "active",
+    "website": "https://multichain.org",
+    "explorer": "https://etc.blockscout.com/address/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+    "research": "https://coingecko.com/coins/tether",
+    "tags": [
+        "bridged asset",
+        "defi",
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/tether.to"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Tether_to"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/tether"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/tether"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "DogeClassic",
+    "symbol": "cDOGE",
+    "description": "DogeClassic a meme token on Ethereum Classic.",
+    "id": "0x906102743F6d0B89514d6639eBAcC6368C1B1A32",
+    "type": "ERC20",
+    "decimals": 9,
+    "status": "active",
+    "website": "https://www.dogeetc.com/",
+    "explorer": "https://etc.blockscout.com/address/0x906102743F6d0B89514d6639eBAcC6368C1B1A32",
+    "research": "https://www.dogeetc.com/",
+    "tags": [
+        "meme"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/DogeClassicETC"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/DogeClassicETC"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "GREASE by TMWSTW",
+    "symbol": "GREASE",
+    "description": "A resource from the metaverse game The Man Who Sold The World.",
+    "id": "0x152BAEFdc3b7E60985addF66FaB95e01089ba958",
+    "type": "ERC20",
+    "decimals": 0,
+    "status": "active",
+    "website": "https://tmwstw.io/",
+    "explorer": "https://etc.blockscout.com/address/0x152BAEFdc3b7E60985addF66FaB95e01089ba958",
+    "research": "https://wiki.tmwstw.io/",
+    "tags": [
+        "games",
+        "game resources",
+        "metaverse",
+        "web3 gaming"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/TMWSTW_NFT"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/d56axYmRTa"
+        },
+        {
+            "name": "youtube",
+            "url": "https://youtube.com/@TMWSTW_metaverse"
+        }
+    ]
+}

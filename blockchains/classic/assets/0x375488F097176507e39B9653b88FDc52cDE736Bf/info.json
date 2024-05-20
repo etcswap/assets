@@ -1,0 +1,29 @@
+{
+    "name": "JellyBeanCash bridged by Multichain",
+    "symbol": "anyJellyBean",
+    "description": "JellyBeanCash is a growing farming ecosystem on BSC with a CrossChain token on ETC",
+    "id": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
+    "type": "ERC20",
+    "decimals": 18,
+    "status": "active",
+    "website": "https://jellybeancash.com/",
+    "explorer": "https://etc.blockscout.com/address/0x375488F097176507e39B9653b88FDc52cDE736Bf",
+    "research": "https://jellybeancash.com/",
+    "tags": [
+        "farm"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/jellybeancash"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/jellybeancash"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/jellybeancash"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Stablecoin by Brale",
+    "symbol": "SBC",
+    "description": "An internal stablecoin for liquidity movements on the backend of the Brale ecosystem.",
+    "id": "0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798",
+    "type": "ERC20",
+    "decimals": 6,
+    "status": "active",
+    "website": "https://brale.xyz",
+    "explorer": "https://etc.blockscout.com/address/0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798",
+    "research": "https://brale.xyz/stablecoins/SBC",
+    "tags": [
+        "defi",
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/brale_xyz"
+        }
+    ]
+}
