@@ -1,17 +1,16 @@
 {
-    "name": "Multichain-peg USDC",
-    "symbol": "USDC",
+    "name": "USDC bridged by Multichain",
+    "symbol": "anyUSDC",
     "description": "Bridged USD Coin through the Multichain cross-chain router.",
     "id": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
     "type": "ERC20",
     "decimals": 6,
     "status": "active",
     "website": "https://multichain.org",
-    "explorer": "https://blockscout.com/etc/mainnet/address/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
+    "explorer": "https://etc.blockscout.com/address/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
     "research": "https://coingecko.com/coins/usd-coin",
     "tags": [
         "bridged asset",
-        "defi",
         "stablecoin"
     ],
     "links": [
