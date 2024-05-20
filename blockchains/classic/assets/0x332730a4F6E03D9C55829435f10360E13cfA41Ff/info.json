@@ -1,18 +1,16 @@
 {
-    "name": "Multichain-peg WBTC",
-    "symbol": "WBTC",
+    "name": "WBTC bridged by Multichain",
+    "symbol": "anyWBTC",
     "description": "Bridged Wrapped Bitcoin through the Multichain cross-chain router.",
     "id": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
     "type": "ERC20",
     "decimals": 8,
     "status": "active",
     "website": "https://mutlichain.org",
-    "explorer": "https://blockscout.com/etc/mainnet/address/0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+    "explorer": "https://etc.blockscout.com/address/0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
     "research": "https://coingecko.com/coins/wrapped-bitcoin",
     "tags": [
-        "blockchain",
         "bridged asset",
-        "defi",
         "wrapped asset"
     ],
     "links": [
