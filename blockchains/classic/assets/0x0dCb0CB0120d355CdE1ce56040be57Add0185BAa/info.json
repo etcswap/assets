@@ -1,6 +1,6 @@
 {
-    "name": "Multichain-peg BNB",
-    "symbol": "BNB",
+    "name": "BNB bridged by Multichain",
+    "symbol": "anyBNB",
     "description": "Bridged BNB through the Multichain cross-chain router.",
     "id": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
     "type": "ERC20",
@@ -12,7 +12,6 @@
     "tags": [
         "blockchain",
         "bridged asset",
-        "defi",
         "exchange token"
     ],
     "links": [
