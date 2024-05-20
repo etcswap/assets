@@ -1,17 +1,16 @@
 {
-    "name": "Multichain-peg DAI",
-    "symbol": "DAI",
+    "name": "DAI bridged by Multichain",
+    "symbol": "anyDAI",
     "description": "Bridged Dai Stablecoin through the Multichain cross-chain router.",
     "id": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
     "type": "ERC20",
     "decimals": 18,
     "status": "active",
     "website": "http://multichain.org",
-    "explorer": "https://blockscout.com/etc/mainnet/address/0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
+    "explorer": "https://etc.blockscout.com/address/0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
     "research": "https://coingecko.com/coins/dai",
     "tags": [
         "bridged asset",
-        "defi",
         "stablecoin"
     ],
     "links": [
