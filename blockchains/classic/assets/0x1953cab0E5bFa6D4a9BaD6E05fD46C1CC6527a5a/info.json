@@ -7,7 +7,7 @@
     "decimals": 18,
     "status": "active",
     "website": "https://wrappedether.org",
-    "explorer": "https://blockscout.com/etc/mainnet/token/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
+    "explorer": "https://etc.blockscout.com/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
     "research": "https://ethereumclassic.org/why-classic",
     "tags": [
         "blockchain",
@@ -21,8 +21,16 @@
             "url": "https://github.com/wrappedether/canonical-wetc"
         },
         {
+            "name": "x",
+            "url": "https://x.com/ETC_Network"
+        },
+        {
             "name": "twitter",
             "url": "https://twitter.com/eth_classic"
+        },
+        {
+            "name": "discord",
+            "url": "https://ethereumclassic.org/discord"
         },
         {
             "name": "reddit",
@@ -30,7 +38,7 @@
         },
         {
             "name": "whitepaper",
-            "url": "https://github.com/ethereumclassic/wiki/wiki/White-Paper"
+            "url": "https://ethereumclassic.org/knowledge/foundation"
         },
         {
             "name": "coinmarketcap",
