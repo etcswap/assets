@@ -7,12 +7,12 @@
     "decimals": 6,
     "status": "active",
     "website": "https://novanetwork.io",
-    "explorer": "https://blockscout.com/etc/mainnet/address/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4",
+    "explorer": "https://etc.blockscout.com/address/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4",
     "research": "https://docs.novanetwork.io/nova-usd/introduction",
     "tags": [
-        "nova",
-        "usd",
-        "stablecoin"
+        "bridged asset",
+        "stablecoin",
+        "wrapped asset"
     ],
     "links": [
         {
