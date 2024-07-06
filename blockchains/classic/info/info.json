@@ -1,10 +1,10 @@
 {
     "name": "Ethereum Classic",
-    "website": "https://ethereumclassic.org/",
-    "description": "Ethereum Classic is an open-source, public, blockchain-based distributed computing platform featuring smart contract functionality.It is a continuation of the original Ethereum blockchain.",
-    "explorer": "https://blockscout.com/etc/mainnet/",
+    "website": "https://ethereumclassic.org",
+    "description": "Ethereum Classic is an open-source, public, blockchain-based distributed computing platform featuring smart contract functionality. It is the continuation of the original Ethereum vision.",
+    "explorer": "https://etc.blockscout.com",
     "research": "https://research.binance.com/en/projects/ethereum-classic",
-    "rpc_url": "https://besu-at.etc-network.info",
+    "rpc_url": "https://etc.rivet.link",
     "coin_type": 61,
     "symbol": "ETC",
     "type": "coin",
@@ -13,11 +13,11 @@
     "links": [
         {
             "name": "github",
-            "url": "https://github.com/ethereumclassic/"
+            "url": "https://github.com/ethereumclassic"
         },
         {
             "name": "twitter",
-            "url": "https://twitter.com/eth_classic"
+            "url": "https://twitter.com/ETC_Network"
         },
         {
             "name": "reddit",
@@ -25,7 +25,7 @@
         },
         {
             "name": "whitepaper",
-            "url": "https://whitepaperdatabase.com/ethereum-classic-etc-whitepaper/"
+            "url": "https://whitepaperdatabase.com/ethereum-classic-etc-whitepaper"
         }
     ]
 }

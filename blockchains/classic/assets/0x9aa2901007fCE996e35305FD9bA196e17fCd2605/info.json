@@ -1,0 +1,31 @@
+{
+    "name": "Nyke Finance",
+    "symbol": "NYKE",
+    "description": "Nyke Finance is a decentralized non-custodial algorithmic-based money market protocol that allows users to participate as liquidity suppliers or borrowers.",
+    "id": "0x9aa2901007fCE996e35305FD9bA196e17fCd2605",
+    "type": "ERC20",
+    "decimals": 18,
+    "status": "active",
+    "website": "https://nyke.finance",
+    "explorer": "https://etc.blockscout.com/token/0x9aa2901007fCE996e35305FD9bA196e17fCd2605",
+    "research": "https://nyke.gitbook.io/nyke-finance",
+    "tags": [
+        "defi",
+        "lending",
+        "borrowing"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": ""
+        },
+        {
+            "name": "coinmarketcap",
+            "url": ""
+        },
+        {
+            "name": "coingecko",
+            "url": ""
+        }
+    ]
+}

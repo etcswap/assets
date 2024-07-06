@@ -1,11 +1,11 @@
 {
     "name": "BitUnits Jamaica",
     "symbol": "BJAM",
-    "type": "ETC20",
+    "type": "ERC20",
     "decimals": 18,
     "description": "-",
     "website": "",
-    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xdEb7ade9417f98AFbB60cd6b4a49d4B002AB79c9",
+    "explorer": "https://etc.blockscout.com/token/0xdEb7ade9417f98AFbB60cd6b4a49d4B002AB79c9",
     "status": "active",
     "id": "0xdEb7ade9417f98AFbB60cd6b4a49d4B002AB79c9"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Axiom",
-    "type": "ETC20",
+    "type": "ERC20",
     "symbol": "XOM",
     "decimals": 4,
     "description": "-",
     "website": "",
-    "explorer": "https://blockscout.com/etc/mainnet/tokens/0x5eB99507170F41bAA521cb71C9bCEa2a8A96827C",
+    "explorer": "https://etc.blockscout.com/token/0x5eB99507170F41bAA521cb71C9bCEa2a8A96827C",
     "status": "active",
     "id": "0x5eB99507170F41bAA521cb71C9bCEa2a8A96827C",
     "links": []

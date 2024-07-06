@@ -1,11 +1,11 @@
 {
     "name": "BitUnits HyperBytes",
     "symbol": "BHB",
-    "type": "ETC20",
+    "type": "ERC20",
     "decimals": 8,
     "description": "-",
     "website": "",
-    "explorer": "https://blockscout.com/etc/mainnet/tokens/0xD1eBe08dAe15E604B043789cb140be646E0bd27b",
+    "explorer": "https://etc.blockscout.com/token/0xD1eBe08dAe15E604B043789cb140be646E0bd27b",
     "status": "active",
     "id": "0xD1eBe08dAe15E604B043789cb140be646E0bd27b"
 }
