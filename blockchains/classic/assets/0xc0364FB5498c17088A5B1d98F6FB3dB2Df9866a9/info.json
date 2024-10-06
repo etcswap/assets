@@ -1,0 +1,30 @@
+{
+    "name": "Eco",
+    "symbol": "ECO",
+    "description": "Eco is an ecosystem reward token earned through participation in the EthereumClassic.com product suite.",
+    "id": "0xc0364FB5498c17088A5B1d98F6FB3dB2Df9866a9",
+    "type": "ERC20",
+    "decimals": 18,
+    "status": "active",
+    "website": "https://eco.ethereumclassic.com",
+    "explorer": "https://etc.blockscout.com/token/0xc0364FB5498c17088A5B1d98F6FB3dB2Df9866a9",
+    "research": "https://docs.ethereumclassic.com",
+    "tags": [
+        "defi",
+        "community"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/EthClassicDAO"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/eco"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/eco"
+        }
+    ]
+}
