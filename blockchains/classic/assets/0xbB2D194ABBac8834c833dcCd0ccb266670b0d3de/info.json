@@ -1,0 +1,31 @@
+{
+    "name": "Wrapped AyeAyeCoin Classic",
+    "symbol": "WAACC",
+    "description": "AyeAyeCoin is the first relic memecoin on Ethereum deployed in 2015.",
+    "id": "0xbB2D194ABBac8834c833dcCd0ccb266670b0d3de",
+    "type": "ERC20",
+    "decimals": 0,
+    "status": "active",
+    "website": "https://ayeayecoin.xyz",
+    "explorer": "https://etc.blockscout.com/token/0xbB2D194ABBac8834c833dcCd0ccb266670b0d3de",
+    "research": "https://ayeayecoin.xyz",
+    "tags": [
+        "relic",
+        "memecoin",
+        "community"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/AyeAyeCoin2015"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/waacc"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/waacc"
+        }
+    ]
+}
